@@ -1,4 +1,4 @@
-## Hi there 👋
+## John Jo / Jaesung Jo / 조재성
 
 <!--
 **johnjjsung/johnjjsung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
